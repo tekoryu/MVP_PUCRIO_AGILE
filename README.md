@@ -11,8 +11,8 @@ A escolha por trabalhar com órgãos públicos leva a requisitos muitas vezes n�
 Há uma multiplicidade de stakeholders para o caso em tela. O servidor público, o departamento de TI, os regulados (empresas de transporte), a legislação federal tanto de regulação quanto do exercício da regulação.
 
 ## Links do MVP:
-MVP Canvas:
-Backlog do produto:
-Backlog da 1a Sprint:
-Wireframe:
-Vídeo de apresentação:
+MVP Canvas:<br>
+Backlog do produto:<br>
+Backlog da 1a Sprint:<br>
+Wireframe:<br>
+Vídeo de apresentação:<br>
