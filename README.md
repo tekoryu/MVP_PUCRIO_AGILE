@@ -10,7 +10,7 @@ A escolha por trabalhar com órgãos públicos leva a requisitos muitas vezes n�
 Há uma multiplicidade de stakeholders para o caso em tela. O servidor público, o departamento de TI, os regulados (empresas de transporte), a legislação federal tanto de regulação quanto do exercício da regulação.
 
 ## Estrutura SAFe do Jira
-Apesar da instrução do MVP solicitar uma estrututa "epic/feature/story/task", o exemplo apresenta as features como epics. É uma restrição do Jira contornada apenas no Jira Alig, como podemos ver em https://community.atlassian.com/t5/Jira-Software-questions/Why-Jira-does-not-allow-Epic-Feature-Story-Task-Hierarchy-which/qaq-p/2261451. Dessa forma foi utilizado o modelo contino nos prints do EasyBola, tomando epic como feature.
+Apesar da instrução do MVP solicitar uma estrututa "epic/feature/story/task", o exemplo apresenta as features como epics. É uma restrição do Jira contornada apenas no Jira Alig, como podemos ver em https://community.atlassian.com/t5/Jira-Software-questions/Why-Jira-does-not-allow-Epic-Feature-Story-Task-Hierarchy-which/qaq-p/2261451. Dessa forma foi utilizado o modelo contido nos prints do EasyBola, tomando epic como feature. As milestones 'MVP' e 'incremento 1' entraram como labels aos épicos.
 
 ## Links do MVP:
 MVP Canvas:  https://miro.com/app/board/uXjVKR4URwI=/?share_link_id=154223930334<br>
