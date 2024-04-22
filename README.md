@@ -16,4 +16,4 @@ Apesar da instrução do MVP solicitar uma estrututa "epic/feature/story/task", 
 MVP Canvas:  https://miro.com/app/board/uXjVKR4URwI=/?share_link_id=154223930334<br>
 Backlog do produto:https://github.com/tekoryu/MVP_PUCRIO_AGILE/blob/main/product-backlog.pdf<br>
 Wireframe: https://www.figma.com/file/0cpGK5sqqrDn6fbac8QYyg/Untitled?type=design&node-id=0%3A1&mode=design&t=NMrpNcQsD8395ARo-1<br>
-Vídeo de apresentação:<br>
+Vídeo de apresentação: https://youtu.be/IqXoGp37s4U<br>
